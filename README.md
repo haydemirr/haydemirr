@@ -2,7 +2,7 @@
 <h2 align="center">Merhaba, Ben Hüseyin Aydemir 👋</h2>
 
 <p align="center">
-  iOS & Full Stack Developer | Swift | SwiftUI | Node.js | JavaScript | MySQL | Firebase | RESTful APIs | JSON
+  iOS &  Developer | Swift | SwiftUIKit | Node.js | JavaScript | MySQL | Firebase | RESTful APIs | JSON
 </p>
 
 ---
