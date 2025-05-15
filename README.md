@@ -37,7 +37,7 @@
 
 ### 📌 Pinned Projects | Sabitlenmiş Projeler
 Çok Yakında Eklenecek...
-
+Very Soon...
 ---
 
 ### 🔥 GitHub Stats
