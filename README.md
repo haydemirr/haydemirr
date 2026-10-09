@@ -1,43 +1,31 @@
 <h1 align="center">Hi, I'm Hüseyin Aydemir 👋</h1>
-<h2 align="center">Merhaba, Ben Hüseyin Aydemir 👋</h2>
 
 <p align="center">
-  iOS &  Developer | Swift | SwiftUIKit | Node.js | JavaScript | MySQL | Firebase | RESTful APIs | JSON
+  Software Engineer | Full Stack Developer
 </p>
 
 ---
 
 ### 🚀 About Me | Hakkımda
 
-🎓 Computer Engineering Student (Graduating June 2025)  
-🎓 Bilgisayar Mühendisliği Öğrencisi (Haziran 2025 Mezun)
+💻 **Computer Engineer & Software Developer** based in Ankara.  
+💻 Ankara'da **Bilgisayar Mühendisi ve Yazılım Geliştirici** olarak çalışıyorum.
 
-📱 Passionate about **iOS Development**, **Mobile UI/UX**, **Full Stack Web Development** and **API Integration**  
-📱 **iOS Geliştirme**, **Mobil UI/UX**, **Full Stack Web Geliştirme** ve **API Entegrasyonu** konularına ilgili
+🔧 Specializing in **Full Stack Web Development**, **Odoo ERP Implementations**, and **Mobile Solutions**.  
+🔧 **Full Stack Web Geliştirme**, **Odoo ERP Sistemleri** ve **Mobil Çözümler** üzerine uzmanlaşıyorum.
 
-🔧 Building clean, scalable, and efficient applications with **REST APIs**, **JSON data handling**, and **backend integration**  
-🔧 Temiz, ölçeklenebilir ve verimli uygulamalar geliştirmeye odaklı, **REST API**, **JSON veri yönetimi** ve **backend entegrasyonu** konusunda deneyimliyim
-
-🌱 Always learning new technologies and improving existing skills  
-🌱 Yeni teknolojiler öğrenmeye ve mevcut yeteneklerimi geliştirmeye açığım
-
-📬 Available for new opportunities!  
-📬 Yeni iş ve proje fırsatlarına açığım!
+⚙️ Building scalable business applications, SaaS platforms (B2B/B2C), and custom backend architectures.  
+⚙️ Ölçeklenebilir iş uygulamaları, SaaS platformları ve özel backend mimarileri geliştiriyorum.
 
 ---
 
 ### 🛠 Tech Stack | Teknolojiler
 
-- **Mobile / Mobil:** Swift, SwiftUI, UIKit, Firebase, HealthKit  
-- **Web:** Node.js, JavaScript, HTML5, CSS3, MySQL, Express.js  
-- **Tools / Araçlar:** Postman, Git, Figma, Firebase, Xcode  
-- **API / Entegrasyon:** RESTful API Geliştirme, JSON Veri Yönetimi, Firebase API, 3rd Party API Tüketimi
+- **Backend & ERP:** Python, Odoo, C#, .NET, Node.js  
+- **Frontend & Mobile:** Next.js, React, Swift, SwiftUI, JavaScript  
+- **Database & Cloud:** PostgreSQL, MSSQL, Supabase, Vercel, Firebase  
+- **DevOps & Tools:** Docker, Nginx, Git, Postman, Cursor  
 
----
-
-### 📌 Pinned Projects | Sabitlenmiş Projeler
-Çok Yakında Eklenecek ...
-Very Soon ...
 ---
 
 ### 🔥 GitHub Stats
@@ -57,5 +45,5 @@ Very Soon ...
 
 ### 💡 Fun Fact | Ekstra Bilgi
 
-I love transforming real-life problems into mobile or web solutions and making apps that people actually use!  
-Gerçek hayattaki problemleri mobil veya web çözümlerine dönüştürmeyi ve insanların gerçekten kullanacağı uygulamalar geliştirmeyi seviyorum!
+I love transforming complex business logic into clean, scalable code and delivering products that solve real-world problems.  
+Karmaşık iş süreçlerini temiz, ölçeklenebilir koda dönüştürmeyi ve gerçek hayattaki problemleri çözen sistemler inşa etmeyi seviyorum.
