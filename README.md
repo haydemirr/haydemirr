@@ -38,7 +38,7 @@
 
 ### 📫 Let's Connect | Bağlantı
 
-- [LinkedIn](https://www.linkedin.com/in/haydemirr)
+- [LinkedIn](https://www.linkedin.com/in/haydemir1)
 - 📩 Email: haydemir001@gmail.com  
 
 ---
